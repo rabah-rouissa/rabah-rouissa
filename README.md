@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm rabah (aymen) rouissa👋
 
-<!--
-**rabah-rouissa/rabah-rouissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate Software Engineering student with a strong foundation in programming and a keen interest in software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Currently pursuing a degree in Software Engineering.
+- 🖥️ **Technical Skills**:
+  - **Languages**: Proficient in Python and Java.
+  - **Backend Development**: Skilled in developing server-side applications.
+  - **Mobile Development**: Experienced in Android development using Java.
+  - **Database Management**: Good with SQL and database design.
+  - **Modeling**: Knowledgeable in UML for designing software architectures.
+
+
+## 📫 Connect with Me
+
+Feel free to reach out if you want to collaborate or just chat!
+
+- [Email]rabah.rouissa@univ-constantine2.dz
+
+Thank you for visiting my profile! Looking forward to connecting with fellow developers and tech enthusiasts.
